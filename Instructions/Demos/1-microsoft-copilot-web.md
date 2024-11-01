@@ -102,7 +102,7 @@ Over time, we expect these kinds of processes to become easier and more automate
 
 ### Recognizing Images
 
-First download the following: [**What is this image.png**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/what_is_this_image.PNG)
+First download the following: [**What is this image.png**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/Resourcefiles/what_is_this_image.PNG)
 
 1. Start a new topic, by clicking **view history** and then **Start new chat**.
 

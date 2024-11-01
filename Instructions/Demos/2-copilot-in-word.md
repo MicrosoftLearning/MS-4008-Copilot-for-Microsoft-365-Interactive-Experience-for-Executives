@@ -9,14 +9,14 @@ demo:
 
 ## Demo Setup
 
-The sample documents can be found in the MS-4012 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/tree/master/Resourcefiles).
+The sample documents can be found in the MS-4012 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/tree/master/Resourcefiles).
 
 The specific files being used in this exercise are:
 
-- [**ContosoLearn App Overview.docx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/ContosoLearn%20App%20Overview.docx)
-- [**ContosoLearn Competitor SWOT.docx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/ContosoLearn%20Competitor%20SWOT.docx)
-- [**ContosoLearn Value Proposition.docx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/ContosoLearn%20Value%20Proposition.docx)
-- (Optional - see instructions below) [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx) 
+- [**ContosoLearn App Overview.docx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/Resourcefiles/ContosoLearn%20App%20Overview.docx)
+- [**ContosoLearn Competitor SWOT.docx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/Resourcefiles/ContosoLearn%20Competitor%20SWOT.docx)
+- [**ContosoLearn Value Proposition.docx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/Resourcefiles/ContosoLearn%20Value%20Proposition.docx)
+- (Optional - see instructions below) [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/Resourcefiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx) 
 
 > **NOTE:**  It can take up to 10 minutes for these files to sync to your OneDrive. To expedite this process, you can open the document and then close it, which will add it to your Most Recently Used (MRU) list.
 
@@ -60,13 +60,13 @@ In this demo, we will take the documents we just created and transform them toge
     Remove the "Market Research" section and add a "Competitive Landscape" section. Ensure the content is concise and aligns with the overall tone of the document.
     ```
 
-    > **NOTE:** If Copilot for Word is not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx).
+    > **NOTE:** If Copilot for Word is not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx).
 
 ## Optional Demo Steps
 
 ### Summarize a large document
 
-1. Download and open the following file in Word on your desktop: [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx).
+1. Download and open the following file in Word on your desktop: [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/master/Resourcefiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx).
 1. Within Word, on the ribbon, select the **Copilot icon**.
 
     ![Screenshot showing keep it in Copilot.](../Demos/Media/copilot_icon.png)
