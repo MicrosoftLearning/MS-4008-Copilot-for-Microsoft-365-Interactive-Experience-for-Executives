@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Business Chat & Pages'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
 # BizChat Demo (Mobile & PC)
 
@@ -77,4 +77,4 @@ demo:
 1. Once your colleague has access, they are free to continue working on the page through Outlook, pages, or loop. 
 
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

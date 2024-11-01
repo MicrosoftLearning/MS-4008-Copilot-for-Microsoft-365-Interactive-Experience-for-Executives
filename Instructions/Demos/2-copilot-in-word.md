@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Copilot in Word'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
 # Microsoft 365 Copilot in Word
 
@@ -86,4 +86,4 @@ In this demo, we will take the documents we just created and transform them toge
     
 1. Select **Send**.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

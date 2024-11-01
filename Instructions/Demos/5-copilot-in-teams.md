@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Copilot in Teams'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
 # Microsoft 365 Copilot in Teams
 
@@ -126,4 +126,4 @@ Additionally, I can draft a reply and use Copilot to refine it, ensuring that my
 
     ![Screenshot showing Rewrite and Adjust in Teams Copilot.](../Demos/Media/teams_rewrite_adjust.png)     
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

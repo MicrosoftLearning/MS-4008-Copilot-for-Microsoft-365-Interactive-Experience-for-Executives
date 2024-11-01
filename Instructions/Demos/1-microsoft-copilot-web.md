@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Microsoft Copilot (copilot.microsoft.com)'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
 # Microsoft Copilot (copilot.microsoft.com)
 
@@ -127,4 +127,4 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 
 1. Select the **Submit** button.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)

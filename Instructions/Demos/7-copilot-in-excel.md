@@ -3,13 +3,13 @@ demo:
     title: 'Demo: Copilot in Excel'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
 # Microsoft 365 Copilot in Excel
 
 ## Demo Setup
 
-Download the Excel sample document [**EV_Charger_Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/raw/refs/heads/master/Resourcefiles/EV_Charger_Sales_Analysis_v1.xlsx). You will use this file to run the demo steps outlined in this guide.
+Download the Excel sample document [**EV_Charger_Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/raw/refs/heads/master/Resourcefiles/EV_Charger_Sales_Analysis_v1.xlsx). You will use this file to run the demo steps outlined in this guide.
 
 
 ## Talking Points

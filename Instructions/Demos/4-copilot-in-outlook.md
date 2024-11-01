@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Copilot in Outlook'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
 
 # Microsoft 365 Copilot in Outlook
 
@@ -70,4 +70,4 @@ OK, I’m going to keep this response."
 
     > **NOTE:**  Do not send the reply, as you may wish to re-use this email thread for future demos.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
