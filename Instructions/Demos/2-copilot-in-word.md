@@ -9,7 +9,7 @@ demo:
 
 ## Demo Setup
 
-The sample documents can be found in the MS-4012 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/tree/master/ResourceFiles).
+The sample documents can be found in the MS-4008 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/tree/master/ResourceFiles).
 
 The specific files being used in this exercise are:
 
